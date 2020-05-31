@@ -1,0 +1,885 @@
+{
+  "@@last_modified": "2019-11-03T14:11:49.858673",
+  "locale": "ar",
+  "@locale": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblname": "الاسم",
+  "@lblname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblemail": "البريد الالكتروني",
+  "@lblemail": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "lblsignout": "تسجيل الخروج",
+  "@lblsignout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblpassword": "كلمة المرور",
+  "@lblpassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblsignup": "انشاء حساب",
+  "@lblsignup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblcreatenewaccount": "انشاء حساب جديد",
+  "@lblcreatenewaccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lbldidforgetpassword": "هل نسيت كلمة المرور؟ ",
+  "@lbldidforgetpassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblagreetothetermsandconditions": "الموافقة علي الشروط و الاحكام",
+  "@lblagreetothetermsandconditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblyouhave": " هل لديك حساب؟تسجيل الدخول",
+  "@lblyouhave": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblyouhavenot": "ليس لديك حساب انشاء حساب",
+  "@lblyouhavenot": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblsend": "ارسال",
+  "@lblsend": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblresend": "اعاده ارسال",
+  "@lblresend": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblenteremail": "ادخل البريد الالكتروني",
+  "@lblenteremail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblverificationcode": "كود التحقيق",
+  "@lblverificationcode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblVerification": "التحقيق",
+  "@lblVerification": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSetsthenewpassword": "كلمة المرور الجديدة",
+  "@lblSetsthenewpassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblConfirmthenewpassword": "تاكيد كلمة المرور",
+  "@lblConfirmthenewpassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSave": "حفظ",
+  "@lblSave": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblContacts": "جهات الاتصال",
+  "@lblContacts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblFrinds": "الاصدقاء",
+  "@lblFrinds": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblDescover": "اكتشف",
+  "@lblDescover": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblMain": "الرئيسية",
+  "@lblMain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblViprooms": "الغرف المميزة",
+  "@lblViprooms": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblActiverooms": "الغرف النشطة",
+  "@lblActiverooms": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblRooms": "الغرف",
+  "@lblRooms": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSearch": "قم بالبحث من هنا",
+  "@lblSearch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblActivenow": "نشط الان",
+  "@lblActivenow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblMarket": "المتجر",
+  "@lblMarket": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblInvitefriends": "دعوة الاصدقاء",
+  "@lblInvitefriends": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblAccolade": "الاوسمة",
+  "@lblAccolade": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblDiscutions": "المحادثات",
+  "@lblDiscutions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblFriendsRequest": "طلبات الصداقة",
+  "@lblFriendsRequest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblActivefriend": "الجهات المتصلة",
+  "@lblActivefriend": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblNonactivefriend": "الجهات غير المتصلة",
+  "@lblNonactivefriend": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblcontactus": "اتصل بنا",
+  "@lblcontactus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblTechnicalsupport": "الدعم الفني",
+  "@lblTechnicalsupport": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSystemmessage": "رسائل النظام",
+  "@lblSystemmessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblMoment": "اللحظات",
+  "@lblMoment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblStatus": "الحالة",
+  "@lblStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblLanguage": "اللغة",
+  "@lblLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSerialNumber": "الرقم التعريفي",
+  "@lblSerialNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBalance": "الرصيد المتوفر",
+  "@lblBalance": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblGetmore": "احصل علي المزيد",
+  "@lblGetmore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblControlgames": "العاب التحكم",
+  "@lblControlgames": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBotsgames": "العاب البوتات",
+  "@lblBotsgames": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBotsService": "خدمات البوتات",
+  "@lblBotsService": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lbllogin": "تسجيل الدخول",
+  "@lbllogin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblgamesandBots": "الالعاب و البوتات",
+  "@lblgamesandBots": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblpay": "الدفع",
+  "@lblpay": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblwithVisa": "باستخدام الفيزا",
+  "@lblwithVisa": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblwithMada": "باستخدام مدي",
+  "@lblwithMada": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblMastercart": "باستخدام ماستر كارد",
+  "@lblMastercart": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyCoins": "شراء كوينز",
+  "@lblBuyCoins": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblChargeOffer": "عروض الشحن",
+  "@lblChargeOffer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblConfirmpayment": "تاكيد الدفع",
+  "@lblConfirmpayment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblCardNumber": "رقم البطاقة",
+  "@lblCardNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblNameOfCardOwner": "اسم صاحب البطاقة",
+  "@lblNameOfCardOwner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblExpiryDate": "تاريخ الانتهاء",
+  "@lblExpiryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSecretNumber": "الرقم السري",
+  "@lblSecretNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblConfirm": "تاكيد",
+  "@lblConfirm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblChangeEmailandPassword": "تغيير البريد الالكتروني و رقم المرور",
+  "@lblChangeEmailandPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblOldPassword": "كلمة المرور القديمة",
+  "@lblOldPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblFriendRequest": "طلب الصداقة",
+  "@lblFriendRequest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblEnterIDwhichYouNeedToAdd": "قم بادخال الرقم التعريفي للمستخدم الذي تريده",
+  "@lblEnterIDwhichYouNeedToAdd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblUserName": "اسم المستخدم",
+  "@lblUserName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblCancel": "الغاء",
+  "@lblCancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblAdd": "اضافة",
+  "@lblAdd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblPasswordRecovery": "استرجاع كلمة المرور",
+  "@lblPasswordRecovery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblEnterEmail": "ادخل البريد الالكتروني",
+  "@lblEnterEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblIdNumber": "ID رقم",
+  "@lblIdNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblRoomOwner": "مملوكة من قبل",
+  "@lblRoomOwner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblRoomMemmber": "اعضاء الغرفة",
+  "@lblRoomMemmber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblJoin": "انضمام",
+  "@lblJoin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyGifForYourRoom": "شراء صور متحركة للغرفة",
+  "@lblBuyGifForYourRoom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyGifForYourAccount": "شراء صور متحركة للحساب",
+  "@lblBuyGifForYourAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyGameForYourRoom": "شراء العاب للغرفة",
+  "@lblBuyGameForYourRoom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyGameForYourAccount": "شراء العاب للحساب",
+  "@lblBuyGameForYourAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblDistinguishyourroomandplaceitintheviprooms": "قم بتمميز غرفتك و وضعها بالغرف المميزة",
+  "@lblDistinguishyourroomandplaceitintheviprooms": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblEditProfile": "تعديل الحساب",
+  "@lblEditProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblAccount": "الحساب",
+  "@lblAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBirthDay": "تاريخ الميلاد",
+  "@lblBirthDay": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblGender": "الجنس",
+  "@lblGender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblMale": "ذكر",
+  "@lblMale": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblFemale": "انثي",
+  "@lblFemale": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblAddMoments": "اضافة لحظات",
+  "@lblAddMoments": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblCreateRoom": "انشاء غرفة مميزة",
+  "@lblCreateRoom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblDescription": "الوصف",
+  "@lblDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblCreate": "انشاء",
+  "@lblCreate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSetting": "الاعدادات",
+  "@lblSetting": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblAcceptToReceiveMessageFromAllUsers": "السماح بقبول الرسائل من كل المستخدمين",
+  "@lblAcceptToReceiveMessageFromAllUsers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblTermsandConditions": "الشروط و الاحكام",
+  "@lblTermsandConditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblTheAppearance": "المظهر",
+  "@lblTheAppearance": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblDarkMode": "تفعيل النمط الداكن",
+  "@lblDarkMode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblChatBackgroundColor": "لون خلفية المحادثة",
+  "@lblChatBackgroundColor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblAlerts": "التنبيهات",
+  "@lblAlerts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSoundsOfAlerts": "تفعيل صوت التنبيهات",
+  "@lblSoundsOfAlerts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSoundsOfPrivateAlerts": "تفعيل صوت التنبيهات الخاصة",
+  "@lblSoundsOfPrivateAlerts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSoundsOfRoomAlerts": "تفعيل صوت تنبيهات الغرف ",
+  "@lblSoundsOfRoomAlerts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblPublic": "عام",
+  "@lblPublic": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblJoinToRoom": "الانضمام الي الغرفة",
+  "@lblJoinToRoom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblDistinguishyourroomandplaceitintheviproomsForThreeDays": "قم بتمميز غرفتك و وضعها بالغرف المميزة لمدة 3 ايام",
+  "@lblDistinguishyourroomandplaceitintheviproomsForThreeDays": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblRomeName": "اسم الغرفة",
+  "@lblRomeName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyIDs": "شراء IDs",
+  "@lblBuyIDs": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyGIF": "شراء صور متحركة",
+  "@lblBuyGIF": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblDistinguishedRoom": "تمميز الغرفة",
+  "@lblDistinguishedRoom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblFirstLevel": "المركز الاول",
+  "@lblFirstLevel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSecondLevel": "المركز الثاني",
+  "@lblSecondLevel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblThirdLevel": "المركز الثالث",
+  "@lblThirdLevel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblActiviee": "نشط",
+  "@lblActiviee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblInactivee": "غير نشط",
+  "@lblInactivee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyIdForAccount": "شراء id خاص للحساب",
+  "@lblBuyIdForAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyIdForRoom": "شراء id خاص  للغرفة",
+  "@lblBuyIdForRoom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblEnterTheNameOfRoomOrIDToJoin": "قم بادخال اسم الغرفة او الرقم التعريفي للانضمام",
+  "@lblEnterTheNameOfRoomOrIDToJoin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblDetails": "التفاصيل",
+  "@lblDetails": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblAboatGroup": "عن المجموعة",
+  "@lblAboatGroup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblAddPerson": "اضافة شخص",
+  "@lblAddPerson": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblversion": "رقم الاصدار",
+  "@lblversion": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblRS": "ر.س",
+  "@lblRS": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "lblInformatonBefor": "معلومات من قبل",
+   "@lblInformatonBefor": {
+     "type": "text",
+     "placeholders": {}
+   },
+ "lblDeleteAccount": "حذف الحساب",
+   "@lblDeleteAccount": {
+     "type": "text",
+     "placeholders": {}
+   },
+   "lblMembers": "الاعضاء",
+     "@lblMembers": {
+       "type": "text",
+       "placeholders": {}
+     },
+
+   "lblWhoInviteMe": "الذي قام بدعوتي",
+     "@lblWhoInviteMe": {
+       "type": "text",
+       "placeholders": {}
+     },
+   "lblInvited": "المدعو",
+     "@lblInvited": {
+       "type": "text",
+       "placeholders": {}
+     },
+       "lblChangePassword": "تعيين كلمة المرور",
+                    "@lblChangePassword": {
+                      "type": "text",
+                      "placeholders": {}
+                    },
+"lblTheFriendShipRequestHasBeenSent": "🥳تم ارسال طلب الصداقة🥳",
+    "@lblTheFriendShipRequestHasBeenSent": {
+      "type": "text",
+      "placeholders": {}
+    },
+"lblYouAreAlreadyFriend": "🙈 انته صديق بالفعل 🙈",
+    "@lblYouAreAlreadyFriend": {
+      "type": "text",
+      "placeholders": {}
+    },
+   "lblNoOnlineFriends": "😓 لا يوجد جهات متصل 😓",
+    "@lblNoOnlineFriends": {
+      "type": "text",
+      "placeholders": {}
+    }, 
+       "lblThereAreNoFriendRequests": "😓 لا يوجد طلبات صداقة 😓",
+    "@lblThereAreNoFriendRequests": {
+      "type": "text",
+      "placeholders": {}
+    }, 
+          "lblNoOfflineFriends": "😓 لا يوجد جهات غير متصلة 😓",
+    "@lblNoOfflineFriends": {
+      "type": "text",
+      "placeholders": {}
+    }, 
+  "lblNoSystemMessages": "😓 لا يوجد رسال نظام 😓",
+    "@lblNoSystemMessages": {
+      "type": "text",
+      "placeholders": {}
+    }, 
+  "lblNoInternetConnection": "😓تاكد من الاتصال من الانترنت😓",
+    "@lblNoInternetConnection": {
+      "type": "text",
+      "placeholders": {}
+    }, 
+  
+          "lblCoins": "كوينز",
+    "@lblCoins": {
+      "type": "text",
+      "placeholders": {}
+    },
+                "lblsuccess": "تم العمليه بنجاح",
+    "@lblsuccess": {
+      "type": "text",
+      "placeholders": {}
+    },
+                "lblerror": "حدث خطاء ما",
+    "@lblerror": {
+      "type": "text",
+      "placeholders": {}
+    },
+                     "lblwronginfo": "😂 تاكد من معلوماتك 😂",
+    "@lblwronginfo": {
+      "type": "text",
+      "placeholders": {}
+    },
+                         "lblemailalreadyused": "هذا البريد الالكتروني مستخدم من قبل",
+    "@lblemailalreadyused": {
+      "type": "text",
+      "placeholders": {}
+    },
+                      "lblAccept": "قبول",
+    "@lblAccept": {
+      "type": "text",
+      "placeholders": {}
+    },
+                        "lblDenay": "رفض",
+    "@lblDenay": {
+      "type": "text",
+      "placeholders": {}
+    },
+                        "lblban": "حظر",
+    "@lblban": {
+      "type": "text",
+      "placeholders": {}
+    },
+                        "lblunpan": "الغاء الحظر",
+    "@lblunpan": {
+      "type": "text",
+      "placeholders": {}
+    },
+                            "lblnofrindsyet": "😉 لا يوجد اصدقاء رجاء اضف البعض 😉",
+    "@lblnofrindsyet": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                  "lblnoroomsyet": " ليس لديك غرفة 🤨اذهب انضم الان😉",
+    "@lblnoroomsyet": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                      "lblyoubuyid": " 🤩 لقد تغير الرقم التعريفي الخاص بك 🤩 ",
+    "@lblyoubuyid": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                           "lblyouhavenocoin": " لا يوجد كوينز 😏 اشتري الان ليزيد المستوي الخاص بك🤩",
+    "@lblyouhavenocoin": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                           "lblyoubuyidfriendroom": " 🤩 لقد تغير الرقم التعريفي الخاص بغرفة صديقك 🤩 ",
+    "@lblyoubuyidfriendroom": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                          "lblfriendnotfound": "👻 لا يوجد مستخدم بهذا الرقم 👻",
+    "@lblfriendnotfound": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                             "lblwrongroomid": "👻 لا يوجد غرفة بهذا الرقم 👻",
+    "@lblwrongroomid": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                              "lblyoubuygif": " 🤩 لقد تغيرت صوره الحساب الخاص بك 🤩 ",
+    "@lblyoubuygif": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                           "lblyoubuygiffriend": " 🤩 لقد تغيرت صوره الحساب الخاصة بصديقك 🤩 ",
+    "@lblyoubuygiffriend": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                           "lblyoubuygiffriendroom": "🤩 لقد تغيرت صوره الغرفة الخاصة بصديقك 🤩 ",
+    "@lblyoubuygiffriendroom": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                "lblthisIdusedbefor": "🥺 هذا الرقم التعريفي مستخدم من قبل 🥺",
+    "@lblthisIdusedbefor": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                    "lblmyrooms": "الغرف الخاصة بي",
+    "@lblmyrooms": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                        "lblnomyroomsyet": "ليس لديك غرفة 🤨اذهب انشئ الان 😉",
+    "@lblnomyroomsyet": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                      "lblyoubuygifroom": "🤩 لقد تغيرت صوره الغرفة الخاصة بك 🤩 ",
+    "@lblyoubuygifroom": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                           "lblyoubuyidroom": "🤩 لقد تغيرت الرقم التعريفي للغرفة الخاصة بك 🤩 ",
+    "@lblyoubuyidroom": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                               "lblpostionreceved": "🥺 هذا المركز محجوز حاليا 🥺 ",
+    "@lblpostionreceved": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                "lblfirstpostion": "🤩غرفتك الان في 🔥المركز الاول🔥🤩",
+    "@lblfirstpostion": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                             "lblsecondpostion": "🤩غرفتك الان في 🔥المركز الثاني🔥🤩",
+    "@lblsecondpostion": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                             "lblthirdpostion": "🤩غرفتك الان في 🔥المركز الثالث🔥🤩",
+    "@lblthirdpostion": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                     "lblfriendrefuse": " 😭 تم رفض الطلب 😭 ",
+    "@lblfriendrefuse": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                         "lblfriendadded": "🤩 تمت الاضافة تحقق في صفحة المحادثات 🤩",
+    "@lblfriendadded": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                           "lblacceptnotfromrooms": "🤩 قبول تنبيهات الغرف 🤩",
+    "@lblacceptnotfromrooms": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                        "lblrefusefromchats": "🥺 رفض تنبيهات الغرف 🥺",
+    "@lblrefusefromchats": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                        "lblacceptnotfromchats": "🤩 قبول تنبيهات الاصدقاء 🤩",
+    "@lblacceptnotfromchats": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                        "lblfriendadded": "🥺 رفض تنبيهات الاصدقاء  🥺",
+    "@lblfriendadded": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                        "lblacceptnotfromsystemmessage": "🤩 قبول تنبيهات النظام 🤩",
+    "@lblacceptnotfromsystemmessage": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                        "lblrefusefromsystemmessage": "🥺 رفض تنبيهات النظام",
+    "@lblrefusefromsystemmessage": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                                "lblyoujoindroom": "🤩 انته الان انضممت الي الغرفة تاكد في صفحة الاصدقاء 🤩",
+    "@lblyoujoindroom": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                            "lblyouarealreadyinroom": "🤩 انته بالفعل في الغرفة تاكد في صفحة الاصدقاء 🤩",
+    "@lblyouarealreadyinroom": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                                    "lblyouinvitefriend": "🤩 شكرا لك 🤩",
+    "@lblyouinvitefriend": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                                "lblcannotinvint": "🤩 لقد استخدمتها سابقا 🤩",
+    "@lblcannotinvint": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                                  "lblthisnameisused": "🤩 هذا الاسم مستخدم من قبل  🤩",
+    "@lblthisnameisused": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                                        "lbldownload": "تحميل",
+    "@lbldownload": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                                          "lblcancelfriend": "الغاء طلب الصداقة",
+    "@lblcancelfriend": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                                          "lblyouaresusbended": "انته محظور من هذه الغرفة",
+    "@lblyouaresusbended": {
+      "type": "text",
+      "placeholders": {}
+    },
+}

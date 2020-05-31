@@ -1,0 +1,885 @@
+{
+  "@@last_modified": "2019-11-03T14:11:49.858673",
+  "locale": "en",
+  "@locale": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblname": "Name",
+  "@lblname": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblemail": "Email",
+  "@lblemail": {
+    "type": "text",
+    "placeholders": {}
+  },
+ "lblsignout": "signout",
+  "@lblsignout": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblpassword": "Password",
+  "@lblpassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblsignup": "Signup",
+  "@lblsignup": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblcreatenewaccount": "Create New Account",
+  "@lblcreatenewaccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lbldidforgetpassword": "Did Forget Password ? ",
+  "@lbldidforgetpassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblagreetothetermsandconditions": "Agree to The Terms and Conditions",
+  "@lblagreetothetermsandconditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblyouhave": "You have Account ?",
+  "@lblyouhave": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblyouhavenot": "You havenot Account ?",
+  "@lblyouhavenot": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblsend": "Send",
+  "@lblsend": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblresend": "Resend",
+  "@lblresend": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblenteremail": "Enter Email",
+  "@lblenteremail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblverificationcode": "Verification Code",
+  "@lblverificationcode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblVerification": "Verification",
+  "@lblVerification": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSetsthenewpassword": "New Password",
+  "@lblSetsthenewpassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblConfirmthenewpassword": "Confirm Password",
+  "@lblConfirmthenewpassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSave": "Save",
+  "@lblSave": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblContacts": "Contacts",
+  "@lblContacts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblFrinds": "Friends",
+  "@lblFrinds": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblDescover": "Discover",
+  "@lblDescover": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblMain": "Home",
+  "@lblMain": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblViprooms": "VIP Room",
+  "@lblViprooms": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblActiverooms": "Active Room",
+  "@lblActiverooms": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblRooms": "Rooms",
+  "@lblRooms": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSearch": "Search ...",
+  "@lblSearch": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblActivenow": "Active",
+  "@lblActivenow": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblMarket": "Market",
+  "@lblMarket": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblInvitefriends": "Invite Friends",
+  "@lblInvitefriends": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblAccolade": "Accolade",
+  "@lblAccolade": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblDiscutions": "Discustions",
+  "@lblDiscutions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblFriendsRequest": "Friends Request",
+  "@lblFriendsRequest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblActivefriend": "Active Friends",
+  "@lblActivefriend": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblNonactivefriend": "Non Active friends",
+  "@lblNonactivefriend": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblcontactus": "Contact US",
+  "@lblcontactus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblTechnicalsupport": "Technical Support",
+  "@lblTechnicalsupport": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSystemmessage": "System Messages",
+  "@lblSystemmessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblMoment": "Moment",
+  "@lblMoment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblStatus": "Stutus",
+  "@lblStatus": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblLanguage": "Language",
+  "@lblLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSerialNumber": "Serial Number",
+  "@lblSerialNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBalance": "Balance",
+  "@lblBalance": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblGetmore": "More",
+  "@lblGetmore": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblControlgames": "Control Games",
+  "@lblControlgames": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBotsgames": "Bots Games",
+  "@lblBotsgames": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBotsService": "Bots Service",
+  "@lblBotsService": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lbllogin": "Login",
+  "@lbllogin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblgamesandBots": "Gamees & Bots",
+  "@lblgamesandBots": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblpay": "payment",
+  "@lblpay": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblwithVisa": "With VISA",
+  "@lblwithVisa": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblwithMada": "With MADA",
+  "@lblwithMada": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblMastercart": "With MASTER Card",
+  "@lblMastercart": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyCoins": "BuyCoins",
+  "@lblBuyCoins": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblChargeOffer": "ChargeOffers",
+  "@lblChargeOffer": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblConfirmpayment": "Confirm Payment",
+  "@lblConfirmpayment": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblCardNumber": "Card Number",
+  "@lblCardNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblNameOfCardOwner": "Name of Card Owner",
+  "@lblNameOfCardOwner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblExpiryDate": "Expiry Date",
+  "@lblExpiryDate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSecretNumber": "Secret Number",
+  "@lblSecretNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblConfirm": "Confirm",
+  "@lblConfirm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblChangeEmailandPassword": "Change Email And Password",
+  "@lblChangeEmailandPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblOldPassword": "Old Password",
+  "@lblOldPassword": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblFriendRequest": "Friend Request",
+  "@lblFriendRequest": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblEnterIDwhichYouNeedToAdd": "Enter ID of user which you need to add",
+  "@lblEnterIDwhichYouNeedToAdd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblUserName": "User Name",
+  "@lblUserName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblCancel": "Cancel",
+  "@lblCancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblAdd": "ADD",
+  "@lblAdd": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblPasswordRecovery": "Password Recovery",
+  "@lblPasswordRecovery": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblEnterEmail": "Enter Email",
+  "@lblEnterEmail": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblIdNumber": "ID Number",
+  "@lblIdNumber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblRoomOwner": "Rome Owner",
+  "@lblRoomOwner": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblRoomMemmber": "Room Member",
+  "@lblRoomMemmber": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblJoin": "Join",
+  "@lblJoin": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyGifForYourRoom": "Buy Gifs for your room",
+  "@lblBuyGifForYourRoom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyGifForYourAccount": "Buy Gifs for your Account",
+  "@lblBuyGifForYourAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyGameForYourRoom": "Buy Game for your room",
+  "@lblBuyGameForYourRoom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyGameForYourAccount": "Buy Game for your account",
+  "@lblBuyGameForYourAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblDistinguishyourroomandplaceitintheviprooms": "Distinguish your room and place it in VIP rooms",
+  "@lblDistinguishyourroomandplaceitintheviprooms": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblEditProfile": "Edit Profile",
+  "@lblEditProfile": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblAccount": "Account",
+  "@lblAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBirthDay": "BirthDay",
+  "@lblBirthDay": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblGender": "Gender",
+  "@lblGender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblMale": "Male",
+  "@lblMale": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblFemale": "Female",
+  "@lblFemale": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblAddMoments": "Add Moments",
+  "@lblAddMoments": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblCreateRoom": "Create discution Room",
+  "@lblCreateRoom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblDescription": "Description",
+  "@lblDescription": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblCreate": "Create",
+  "@lblCreate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSetting": "Setting",
+  "@lblSetting": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblAcceptToReceiveMessageFromAllUsers": "Accept to receive message from all users",
+  "@lblAcceptToReceiveMessageFromAllUsers": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblTermsandConditions": "Terms and Conditions",
+  "@lblTermsandConditions": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblTheAppearance": "Appearance",
+  "@lblTheAppearance": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblDarkMode": "Dark Mode",
+  "@lblDarkMode": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblChatBackgroundColor": "Chat Background Color",
+  "@lblChatBackgroundColor": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblAlerts": "Alerts",
+  "@lblAlerts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSoundsOfAlerts": "Sounds Of Alerts",
+  "@lblSoundsOfAlerts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSoundsOfPrivateAlerts": "Sounds Of Private Alerts",
+  "@lblSoundsOfPrivateAlerts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSoundsOfRoomAlerts": "Sounds Of Room Alerts",
+  "@lblSoundsOfRoomAlerts": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblPublic": "Public",
+  "@lblPublic": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblJoinToRoom": "Join To Room",
+  "@lblJoinToRoom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblDistinguishyourroomandplaceitintheviproomsForThreeDays": "Distinguish your room and place it in VIP rooms for 3 days",
+  "@lblDistinguishyourroomandplaceitintheviproomsForThreeDays": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblRomeName": "Rome Name",
+  "@lblRomeName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyIDs": "Buy IDs",
+  "@lblBuyIDs": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyGIF": "Buy GIF",
+  "@lblBuyGIF": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblDistinguishedRoom": "Distinguished Room",
+  "@lblDistinguishedRoom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblFirstLevel": "First Level",
+  "@lblFirstLevel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblSecondLevel": "Second Level",
+  "@lblSecondLevel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblThirdLevel": "Third Level",
+  "@lblThirdLevel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblActiviee": "Active",
+  "@lblActiviee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblInactivee": "Inactive",
+  "@lblInactivee": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyIdForAccount": "Buy Id For Account",
+  "@lblBuyIdForAccount": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblBuyIdForRoom": "Buy Id For Room",
+  "@lblBuyIdForRoom": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "lblEnterTheNameOfRoomOrIDToJoin": "Enter The Name Of Room Or ID To Join",
+  "@lblEnterTheNameOfRoomOrIDToJoin": {
+    "type": "text",
+    "placeholders": {}
+   },
+   "lblDetails": "Details",
+   "@lblDetails": {
+     "type": "text",
+     "placeholders": {}
+   },
+   "lblAboatGroup": "Aboat Group",
+   "@lblAboatGroup": {
+     "type": "text",
+     "placeholders": {}
+   },
+   "lblAddPerson": "Add Person",
+   "@lblAddPerson": {
+     "type": "text",
+     "placeholders": {}
+   },
+   "lblversion": "Version Number",
+   "@lblversion": {
+     "type": "text",
+     "placeholders": {}
+   },
+  "lblRS": "R.s",
+  "@lblRS": {
+    "type": "text",
+    "placeholders": {}
+   },
+   "lblInformatonBefor": "Information Befor",
+   "@lblInformatonBefor": {
+     "type": "text",
+     "placeholders": {}
+   },
+ "lblDeleteAccount": "DELET ACCOUNT",
+   "@lblDeleteAccount": {
+     "type": "text",
+     "placeholders": {}
+   },
+     "lblMembers": "Members",
+       "@lblMembers": {
+         "type": "text",
+         "placeholders": {}
+       },
+         "lblWhoInviteMe": "Who Invite Me",
+           "@lblWhoInviteMe": {
+             "type": "text",
+             "placeholders": {}
+           },
+         "lblInvited": "Invited",
+           "@lblInvited": {
+             "type": "text",
+             "placeholders": {}
+           },
+           "lblChangePassword": "Change password",
+               "@lblChangePassword": {
+                 "type": "text",
+                 "placeholders": {}
+               },
+               "lblTheFriendShipRequestHasBeenSent": "🥳The friendship request has been sent🥳",
+    "@lblTheFriendShipRequestHasBeenSent": {
+      "type": "text",
+      "placeholders": {}
+    },
+"lblYouAreAlreadyFriend": "🙈 You are already a friend 🙈",
+    "@lblYouAreAlreadyFriend": {
+      "type": "text",
+      "placeholders": {}
+    },
+   "lblNoOnlineFriends": "😓 There are no online friends 😓",
+    "@lblNoOnlineFriends": {
+      "type": "text",
+      "placeholders": {}
+    }, 
+       "lblThereAreNoFriendRequests": "😓 There are no friend requests 😓",
+    "@lblThereAreNoFriendRequests": {
+      "type": "text",
+      "placeholders": {}
+    }, 
+          "lblNoOfflineFriends": "😓 There are no offline  friends 😓",
+    "@lblNoOfflineFriends": {
+      "type": "text",
+      "placeholders": {}
+    }, 
+              "lblNoSystemMessages": "😓 There are no system messages 😓",
+    "@lblNoSystemMessages": {
+      "type": "text",
+      "placeholders": {}
+    }, 
+             "lblNoInternetConnection": "😓There are no internet connection😓",
+    "@lblNoInternetConnection": {
+      "type": "text",
+      "placeholders": {}
+    }, 
+  
+          "lblCoins": "Coins",
+    "@lblCoins": {
+      "type": "text",
+      "placeholders": {}
+    },
+                    "lblsuccess": "Success",
+    "@lblsuccess": {
+      "type": "text",
+      "placeholders": {}
+    },
+                "lblerror": "Error",
+    "@lblerror": {
+      "type": "text",
+      "placeholders": {}
+    },
+                     "lblwronginfo": "😂 Wrong Email or Password 😂",
+    "@lblwronginfo": {
+      "type": "text",
+      "placeholders": {}
+    },
+                           "lblemailalreadyused": "this email is already used",
+    "@lblemailalreadyused": {
+      "type": "text",
+      "placeholders": {}
+    },
+                      "lblAccept": "Accept",
+    "@lblAccept": {
+      "type": "text",
+      "placeholders": {}
+    },
+                        "lblDenay": "Denay",
+    "@lblDenay": {
+      "type": "text",
+      "placeholders": {}
+    },
+                        "lblban": "Ban",
+    "@lblban": {
+      "type": "text",
+      "placeholders": {}
+    },
+                        "lblunpan": "Unban",
+    "@lblunpan": {
+      "type": "text",
+      "placeholders": {}
+    },
+                        "lblnofrindsyet": "😉 No friends yet plz add some 😉",
+    "@lblnofrindsyet": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                  "lblnoroomsyet": " Opps! you not join to any Room yet 🤨 go and join 😉",
+    "@lblnoroomsyet": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                      "lblyoubuyid": " 🤩 your Id changed 🤩 ",
+    "@lblyoubuyid": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                           "lblyouhavenocoin": " you have no coin 😏 buy now to increase your level 🤩 ",
+    "@lblyouhavenocoin": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                           "lblyoubuyidfriendroom": " 🤩 your friend Id room changed 🤩 ",
+    "@lblyoubuyidfriendroom": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                          "lblfriendnotfound": " 👻 User not found 👻",
+    "@lblfriendnotfound": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                             "lblwrongroomid": " 👻 Room not found 👻",
+    "@lblwrongroomid": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                              "lblyoubuygif": " 🤩 your profile photo changed 🤩 ",
+    "@lblyoubuygif": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                           "lblyoubuygiffriend": "  🤩 your  friend photo changed 🤩  ",
+    "@lblyoubuygiffriend": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                           "lblyoubuygiffriendroom": " 🤩 your  friend room photo changed 🤩 ",
+    "@lblyoubuygiffriendroom": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                "lblthisIdusedbefor": " 🥺 This Id used befor 🥺 ",
+    "@lblthisIdusedbefor": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                    "lblmyrooms": " My Rooms ",
+    "@lblmyrooms": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                        "lblnomyroomsyet": " Opps! you not create any Room yet 🤨 go and create 😉",
+    "@lblnomyroomsyet": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                      "lblyoubuygifroom": " 🤩 your room photo changed 🤩 ",
+    "@lblyoubuygifroom": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                           "lblyoubuyidroom": " 🤩 your room Id changed 🤩 ",
+    "@lblyoubuyidroom": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                               "lblpostionreceved": " 🥺 This Position reseved Currently 🥺 ",
+    "@lblpostionreceved": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                "lblfirstpostion": " 🤩 your room now in 🔥First Postion🔥 🤩 ",
+    "@lblfirstpostion": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                             "lblsecondpostion": " 🤩 your room now in 🔥Second Postion🔥 🤩 ",
+    "@lblsecondpostion": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                             "lblthirdpostion": " 🤩 your room now in 🔥Third Postion🔥 🤩 ",
+    "@lblthirdpostion": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                     "lblfriendrefuse": " 😭 you refuse friend request 😭 ",
+    "@lblfriendrefuse": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                         "lblfriendadded": "🤩 friend added check in chats page 🤩",
+    "@lblfriendadded": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                           "lblacceptnotfromrooms": "🤩 Accept Notifcation from Rooms 🤩",
+    "@lblacceptnotfromrooms": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                        "lblrefusefromchats": "🥺 Refuse Notifcation from Rooms 🥺",
+    "@lblrefusefromchats": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                        "lblacceptnotfromchats": "🤩 Accept Notifcation from Chats 🤩",
+    "@lblacceptnotfromchats": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                        "lblfriendadded": "🥺 Refuse Notifcation from chats  🥺",
+    "@lblfriendadded": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                        "lblacceptnotfromsystemmessage": "🤩 Accept Notifcation from System 🤩",
+    "@lblacceptnotfromsystemmessage": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                        "lblrefusefromsystemmessage": "🥺 Refuse Notifcation from System 🥺",
+    "@lblrefusefromsystemmessage": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                                "lblyoujoindroom": "🤩 you just joind to room check in friends page 🤩",
+    "@lblyoujoindroom": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                            "lblyouarealreadyinroom": "🤩 you are already in this room 🤩",
+    "@lblyouarealreadyinroom": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                                    "lblyouinvitefriend": "🤩 thanks you for that 🤩",
+    "@lblyouinvitefriend": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                                "lblcannotinvint": "🤩 sorry you use it befor🤩",
+    "@lblcannotinvint": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                                      "lblthisnameisused": "🤩 this name is used 🤩",
+    "@lblthisnameisused": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                                    "lbldownload": "DownLoad",
+    "@lbldownload": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                                          "lblcancelfriend": "Cancel Friend Request",
+    "@lblcancelfriend": {
+      "type": "text",
+      "placeholders": {}
+    },
+                                                                                          "lblyouaresusbended": "you suspend from this Room",
+    "@lblyouaresusbended": {
+      "type": "text",
+      "placeholders": {}
+    },
+}
+  
